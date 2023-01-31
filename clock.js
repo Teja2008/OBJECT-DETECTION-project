@@ -10,3 +10,6 @@ function draw(){
 image(img,0,0,600,600)
 console.log("clock")
 }
+function modelLoaded(){
+    console.log("detecting")
+}
